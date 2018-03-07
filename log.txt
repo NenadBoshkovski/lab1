@@ -1,0 +1,11 @@
+commit acd922e0cb818e3d4882c90f510207d524fede04
+Author: boshkovski.nenad@students.finki.ukim.mk <boshkovski.nenad@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:57:58 2018 +0100
+
+    modify l1.txt
+
+commit 1b5342cba00eb634a02d8274e9aefc8d8a973e03
+Author: boshkovski.nenad@students.finki.ukim.mk <boshkovski.nenad@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:53:51 2018 +0100
+
+    Initial commit
